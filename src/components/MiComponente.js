@@ -4,7 +4,6 @@ export const MiComponente = () => {
   const id = useId();
 
   console.log(id);
-
   return (
     <div>
       <h1>Hook useID</h1>
